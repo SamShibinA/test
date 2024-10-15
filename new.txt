@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 hi am ms 
 
-=======
 it is main file
 it is a page1 file
->>>>>>> 07925e8013f5b38a1c2dc31e64852bc185b7b6cf
